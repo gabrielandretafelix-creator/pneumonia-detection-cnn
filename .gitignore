@@ -1,0 +1,19 @@
+# Arquivos gerados pela aplicação
+historico_analises.csv
+laudos_imagens/
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Informações de configuração local
+.env
+
+# Gráficos gerados pelo treinamento
+curva_roc_pr.png
+grad_cam_exemplos.png
